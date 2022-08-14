@@ -18,3 +18,4 @@ for i in data_all['chinaDayList']:
     heal = i['heal']
     dead = i['dead']
     history[ds] = {"confirm": confirm, "suspect": suspect, "heal": heal, "dead": dead}
+#滴滴滴
